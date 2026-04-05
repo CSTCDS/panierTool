@@ -25,6 +25,6 @@ jobs:
           username: ${{ secrets.FTP_ID }}
           password: ${{ secrets.FTP_PWD }}
           local-dir: ./  # Répertoire local à envoyer
-          server-dir:./
+          server-dir:/
           log-level: standard
 
