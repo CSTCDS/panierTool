@@ -1,4 +1,4 @@
-name: Deploy to FTP audText
+name: Deploy to FTP audText panierTool
 
 on:
   push:
