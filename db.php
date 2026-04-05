@@ -12,3 +12,4 @@ if ($mysqli->connect_errno) {
 $mysqli->set_charset('utf8mb4');
 
 function e($s) { return htmlspecialchars($s, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8'); }
+

@@ -21,3 +21,4 @@ if ($action === 'delete_list') {
 }
 header('Location: lists.php');
 exit;
+

@@ -27,3 +27,4 @@ jobs:
           local-dir: ./  # Répertoire local à envoyer
           server-dir: audText/
           log-level: standard
+

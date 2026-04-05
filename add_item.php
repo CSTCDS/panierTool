@@ -12,3 +12,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 header('Location: list_view.php?id=' . ($list_id ?? 0));
 exit;
+

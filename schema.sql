@@ -20,3 +20,4 @@ CREATE TABLE IF NOT EXISTS items (
 -- Exemple
 INSERT INTO lists (name) VALUES ('Courses hebdo');
 INSERT INTO items (list_id, name, qty) VALUES (1, 'Pommes', '6'), (1, 'Lait', '1L');
+

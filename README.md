@@ -22,3 +22,4 @@ Fichiers principaux
 - `add_list.php`, `add_item.php`, `delete.php` : actions simples
 
 Licence: code exemple éducatif.
+

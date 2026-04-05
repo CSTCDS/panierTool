@@ -41,3 +41,4 @@ $items_res = $mysqli->query('SELECT * FROM items WHERE list_id = '. $id .' ORDER
   </div>
 </body>
 </html>
+
